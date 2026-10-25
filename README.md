@@ -10,7 +10,7 @@ Pantheons stand alongside your Vocation and embodied form as a major character c
 
 ## Download and play
 
-**[Download the complete public playtest kit](https://github.com/brendenberg/lantern-reach-playtest/releases/latest/download/Lantern-Reach-Public-Playtest.zip)** — four PDF books, six printable SVG maps, and these instructions. No purchase or account required to download.
+**[Download the complete public playtest kit](https://github.com/brendenberg/lantern-reach-playtest/releases/download/v0.1.0/Lantern-Reach-Public-Playtest.zip)** — four PDF books, six printable SVG maps, and these instructions. No purchase or account required to download.
 
 | Book | What you get |
 | --- | --- |
