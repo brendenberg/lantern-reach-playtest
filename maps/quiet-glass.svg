@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+<title id="title">QUIET GLASS</title><desc id="desc">The Return Array · observatory zones. Labeled boxes are zones; lines show traversable connections. The observation route, maintenance passage and inspection hatch give several ways to reach the interior.</desc>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<text x="72" y="83" font-size="48" font-weight="bold" fill="#17394a">QUIET GLASS</text>
+<text x="72" y="128" font-size="27" fill="#536575">The Return Array · observatory zones</text>
+<line x1="72" y1="160" x2="1848" y2="160" stroke="#d4dbd9" stroke-width="3"/>
+<line x1="210" y1="520" x2="600" y2="520" stroke="#277476" stroke-width="7" />
+<line x1="600" y1="520" x2="1020" y2="250" stroke="#277476" stroke-width="7" />
+<line x1="1020" y1="250" x2="1390" y2="520" stroke="#277476" stroke-width="7" />
+<line x1="1390" y1="520" x2="1710" y2="250" stroke="#277476" stroke-width="7" />
+<line x1="1000" y1="820" x2="1390" y2="520" stroke="#277476" stroke-width="7" />
+<line x1="600" y1="520" x2="1000" y2="820" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/>
+<line x1="1020" y1="250" x2="1710" y2="250" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/><g>
+    <rect x="72" y="454" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="210" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Landing Ring</text>
+    <text x="210" y="568" text-anchor="middle" font-size="20" fill="#536575">Ship / EVA access</text>
+  </g>
+<g>
+    <rect x="462" y="454" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="600" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Habitat</text>
+    <text x="600" y="568" text-anchor="middle" font-size="20" fill="#536575">Shelter controls</text>
+  </g>
+<g>
+    <rect x="882" y="184" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1020" y="249" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Records Hall</text>
+    <text x="1020" y="298" text-anchor="middle" font-size="20" fill="#536575">Packets / archive</text>
+  </g>
+<g>
+    <rect x="1252" y="454" width="276" height="132" rx="12" fill="#e7f1f4" stroke="#17394a" stroke-width="4"/>
+    <text x="1390" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Array Walk</text>
+    <text x="1390" y="568" text-anchor="middle" font-size="20" fill="#536575">Vacuum · suit required</text>
+  </g>
+<g>
+    <rect x="1572" y="184" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1710" y="249" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Core</text>
+    <text x="1710" y="298" text-anchor="middle" font-size="20" fill="#536575">Array / bypass</text>
+  </g>
+<g>
+    <rect x="862" y="754" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1000" y="819" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Service Bay</text>
+    <text x="1000" y="868" text-anchor="middle" font-size="20" fill="#536575">Sheltered expedition</text>
+  </g><text x="560" y="845" text-anchor="middle" font-size="25" fill="#526575">Jammed maintenance passage</text>
+<text x="1370" y="202" text-anchor="middle" font-size="25" fill="#526575">Locked inspection hatch</text>
+<line x1="72" y1="970" x2="1848" y2="970" stroke="#d4dbd9" stroke-width="3"/>
+<text x="72" y="1010" font-size="24" fill="#536575">The observation route, maintenance passage and inspection hatch give several ways to reach the interior.</text>
+<text x="72" y="1048" font-size="21" fill="#536575">ZONE PLAY · NOT TO SCALE · Tokens can share a box; only named zones are junctions.</text>
+</g></svg>

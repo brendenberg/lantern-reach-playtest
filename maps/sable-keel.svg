@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+<title id="title">SABLE KEEL</title><desc id="desc">Boarding map · routes, hatches and extraction. Labeled boxes are zones; lines show traversable connections. Dashed routes are service hatches. Dawncore needs a sled or two carriers. Crossing lines are not extra junctions.</desc>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<text x="72" y="83" font-size="48" font-weight="bold" fill="#17394a">SABLE KEEL</text>
+<text x="72" y="128" font-size="27" fill="#536575">Boarding map · routes, hatches and extraction</text>
+<line x1="72" y1="160" x2="1848" y2="160" stroke="#d4dbd9" stroke-width="3"/>
+<line x1="230" y1="520" x2="660" y2="270" stroke="#277476" stroke-width="7" />
+<line x1="230" y1="520" x2="660" y2="800" stroke="#277476" stroke-width="7" />
+<line x1="660" y1="270" x2="1160" y2="270" stroke="#277476" stroke-width="7" />
+<line x1="660" y1="270" x2="1160" y2="800" stroke="#277476" stroke-width="7" />
+<line x1="660" y1="270" x2="1640" y2="520" stroke="#277476" stroke-width="7" />
+<line x1="1640" y1="520" x2="1160" y2="800" stroke="#277476" stroke-width="7" />
+<line x1="660" y1="800" x2="1160" y2="800" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/>
+<line x1="660" y1="800" x2="1160" y2="270" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/>
+<line x1="1160" y1="800" x2="1160" y2="270" stroke="#277476" stroke-width="7" /><g>
+    <rect x="92" y="454" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="230" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Port Collar</text>
+    <text x="230" y="568" text-anchor="middle" font-size="20" fill="#536575">Board / extract</text>
+  </g>
+<g>
+    <rect x="522" y="204" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="660" y="269" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Crew Deck</text>
+    <text x="660" y="318" text-anchor="middle" font-size="20" fill="#536575">Cover / lift control</text>
+  </g>
+<g>
+    <rect x="522" y="734" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="660" y="781" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Maintenance</text>
+<text x="660" y="819" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Spine</text>
+    <text x="660" y="848" text-anchor="middle" font-size="20" fill="#536575">Low gravity / alarm relay</text>
+  </g>
+<g>
+    <rect x="1022" y="204" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1160" y="269" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Bridge</text>
+    <text x="1160" y="318" text-anchor="middle" font-size="20" fill="#536575">Captain / navigation</text>
+  </g>
+<g>
+    <rect x="1022" y="734" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1160" y="799" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Dawn Vault</text>
+    <text x="1160" y="848" text-anchor="middle" font-size="20" fill="#536575">Core / cargo sled</text>
+  </g>
+<g>
+    <rect x="1502" y="454" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1640" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Brig</text>
+    <text x="1640" y="568" text-anchor="middle" font-size="20" fill="#536575">Prisoners / cargo lift</text>
+  </g><text x="1260" y="535" text-anchor="middle" font-size="25" fill="#526575">Armored hatch</text>
+<line x1="72" y1="970" x2="1848" y2="970" stroke="#d4dbd9" stroke-width="3"/>
+<text x="72" y="1010" font-size="24" fill="#536575">Dashed routes are service hatches. Dawncore needs a sled or two carriers. Crossing lines are not extra junctions.</text>
+<text x="72" y="1048" font-size="21" fill="#536575">ZONE PLAY · NOT TO SCALE · Tokens can share a box; only named zones are junctions.</text>
+</g></svg>

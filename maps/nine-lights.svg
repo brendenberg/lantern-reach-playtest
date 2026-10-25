@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc">
+<title id="title">FESTIVAL OF NINE LIGHTS</title><desc id="desc">Meridian Anchorage · the Lantern Run. Labeled boxes are zones; lines show traversable connections. One continuous event scene: stations do not refresh powers. Finish three trials and return before the Festival Bell.</desc>
+<rect width="1920" height="1080" fill="#ffffff"/>
+<g font-family="Helvetica, Arial, sans-serif">
+<text x="72" y="83" font-size="48" font-weight="bold" fill="#17394a">FESTIVAL OF NINE LIGHTS</text>
+<text x="72" y="128" font-size="27" fill="#536575">Meridian Anchorage · the Lantern Run</text>
+<line x1="72" y1="160" x2="1848" y2="160" stroke="#d4dbd9" stroke-width="3"/>
+<line x1="960" y1="520" x2="300" y2="270" stroke="#277476" stroke-width="7" />
+<line x1="960" y1="520" x2="300" y2="800" stroke="#277476" stroke-width="7" />
+<line x1="960" y1="520" x2="1620" y2="270" stroke="#277476" stroke-width="7" />
+<line x1="960" y1="520" x2="1620" y2="800" stroke="#277476" stroke-width="7" />
+<line x1="300" y1="270" x2="300" y2="800" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/>
+<line x1="1620" y1="270" x2="1620" y2="800" stroke="#277476" stroke-width="7" stroke-dasharray="16 12"/><g>
+    <rect x="822" y="454" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="960" y="519" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Common Table</text>
+    <text x="960" y="568" text-anchor="middle" font-size="20" fill="#536575">Start / finish / shared meal</text>
+  </g>
+<g>
+    <rect x="162" y="204" width="276" height="132" rx="12" fill="#e8eff2" stroke="#17394a" stroke-width="4"/>
+    <text x="300" y="269" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Hall of Works</text>
+    <text x="300" y="318" text-anchor="middle" font-size="20" fill="#536575">Beacon trial</text>
+  </g>
+<g>
+    <rect x="162" y="734" width="276" height="132" rx="12" fill="#e8f1e9" stroke="#17394a" stroke-width="4"/>
+    <text x="300" y="799" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Memory Garden</text>
+    <text x="300" y="848" text-anchor="middle" font-size="20" fill="#536575">Route / story trial</text>
+  </g>
+<g>
+    <rect x="1482" y="204" width="276" height="132" rx="12" fill="#eeeaf4" stroke="#17394a" stroke-width="4"/>
+    <text x="1620" y="269" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Light Gallery</text>
+    <text x="1620" y="318" text-anchor="middle" font-size="20" fill="#536575">Lantern trial</text>
+  </g>
+<g>
+    <rect x="1482" y="734" width="276" height="132" rx="12" fill="#f4f2eb" stroke="#17394a" stroke-width="4"/>
+    <text x="1620" y="781" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Observation</text>
+<text x="1620" y="819" text-anchor="middle" font-size="32" font-weight="bold" fill="#17394a">Ring</text>
+    <text x="1620" y="848" text-anchor="middle" font-size="20" fill="#536575">Open route / viewing</text>
+  </g><text x="430" y="540" text-anchor="middle" font-size="25" fill="#526575">Service path</text>
+<text x="1490" y="540" text-anchor="middle" font-size="25" fill="#526575">Low-G tube</text>
+<line x1="72" y1="970" x2="1848" y2="970" stroke="#d4dbd9" stroke-width="3"/>
+<text x="72" y="1010" font-size="24" fill="#536575">One continuous event scene: stations do not refresh powers. Finish three trials and return before the Festival Bell.</text>
+<text x="72" y="1048" font-size="21" fill="#536575">ZONE PLAY · NOT TO SCALE · Tokens can share a box; only named zones are junctions.</text>
+</g></svg>

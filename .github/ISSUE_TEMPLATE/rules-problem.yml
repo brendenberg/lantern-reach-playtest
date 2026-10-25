@@ -1,0 +1,22 @@
+name: Rules problem
+description: Report an unclear rule, contradiction, or exploit.
+title: "[Rules] "
+labels: [rules]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Edition, book, and page
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem?
+      description: Include the situation, the rule you used, and the outcome. Distinguish actual play from a hypothetical example.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested improvement
