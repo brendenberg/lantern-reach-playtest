@@ -3,6 +3,11 @@ description: Report an unclear rule, contradiction, or exploit.
 title: "[Rules] "
 labels: [rules]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **This report will be public and requires a GitHub account.**
+        Share rules and game situations only. Do not include player names, contact details, private chat logs, or other personal information. No response time is promised.
   - type: input
     id: location
     attributes:
