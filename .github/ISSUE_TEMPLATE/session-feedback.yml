@@ -3,6 +3,12 @@ description: Tell us what happened at your table.
 title: "[Session] "
 labels: [playtest]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        **This report will be public and requires a GitHub account.**
+        Share game details only. Do not include player names, email addresses, contact details, private chat logs, or personal information about anyone at your table.
+        A brief report or a session that ended early is useful. No response time is promised.
   - type: textarea
     id: context
     attributes:
@@ -14,7 +20,7 @@ body:
     id: experience
     attributes:
       label: What happened and how did it feel?
-      description: What was exciting, boring, confusing, or unfair? Include a concrete moment.
+      description: What was exciting, boring, confusing, or unfair? Include a concrete moment without identifying players.
     validations:
       required: true
   - type: textarea
