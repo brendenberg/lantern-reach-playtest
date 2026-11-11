@@ -4,7 +4,7 @@
 
 **Start here: [download the full alpha](https://github.com/brendenberg/lantern-reach-playtest/releases/download/v0.1.0/Lantern-Reach-Public-Playtest.zip).** Four PDF books, six maps, no purchase or account needed to download. This is a tabletop game, not a video game.
 
-**Unfinished alpha · substantial AI-assisted writing and artwork · seeking human table feedback.** Automated checks do not establish balance or player enjoyment.
+**Unfinished alpha · seeking human table feedback.** Automated checks do not establish balance or player enjoyment.
 
 ![Player’s Book and Guide’s Book covers](images/books.png)
 
@@ -58,6 +58,6 @@ The most useful reports tell us: which book and page; what your group tried; wha
 
 **Public alpha 0.1.0 · October 25, 2026.** Rules and presentation will change. This edition has undergone automated rules checks and scripted scenario simulations. Those are not human playtests, and the game is not claimed to be balanced or complete. We are now seeking real table feedback.
 
-Created with substantial AI assistance, including writing, rules development, software-assisted checks, layout, and generated artwork. Published by the repository owner. No affiliation with Dungeons & Dragons, Wizards of the Coast, Warhammer, or Games Workshop is implied.
+Published by the repository owner. No affiliation with Dungeons & Dragons, Wizards of the Coast, Warhammer, or Games Workshop is implied.
 
 Free playtest access does not grant an open-source or commercial-use license. See [PLAYTEST-PERMISSION.txt](PLAYTEST-PERMISSION.txt).
