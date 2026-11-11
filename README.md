@@ -2,7 +2,11 @@
 
 **A free space-fantasy tabletop RPG playtest.** A ship, a conviction, and somewhere new to go.
 
-![The four Lantern Reach playtest books](images/books.png)
+**Start here: [download the full alpha](https://github.com/brendenberg/lantern-reach-playtest/releases/download/v0.1.0/Lantern-Reach-Public-Playtest.zip).** Four PDF books, six maps, no purchase or account needed to download. This is a tabletop game, not a video game.
+
+**Unfinished alpha · substantial AI-assisted writing and artwork · seeking human table feedback.** Automated checks do not establish balance or player enjoyment.
+
+![Player’s Book and Guide’s Book covers](images/books.png)
 
 Build an explorer, gather a crew, and choose your next voyage. Investigate silent stations, negotiate with rival interests, discover strange worlds, and decide what your convictions mean when the frontier puts them under pressure.
 
@@ -22,6 +26,27 @@ Pantheons stand alongside your Vocation and embodied form as a major character c
 Start with the Player’s Book and Guide’s Book. The expansions are optional. One person acts as the Guide; the others each play an explorer. Gather ordinary six-sided dice, character notes, and a way to track resources. Choose ready characters for your first session, name your shared ship, and begin with **The Silent Berth** in the Guide’s Book. Use [its station map](maps/silent-berth.svg). The books contain the rules and adventure material; no other game’s rulebook is required.
 
 The core resolution uses **2d6**, clear stakes, and consequences. Combat sits alongside exploration, rescue, negotiation, and crew life. This is an original system; it is not a compatible supplement for Dungeons & Dragons or Warhammer.
+
+## Your first session
+
+You do not need to read all 199 pages before trying the game.
+
+1. Gather **two ordinary six-sided dice**, paper, and a way to track resources. The core game supports **two to four players and one Guide**, with a duet option for one player and one Guide.
+2. Players: open the **Player’s Book, page 4**, for the first-voyage setup. Choose ready characters and name your shared ship.
+3. Guide: begin with **Guide’s Book, page 4**, for preparation and pacing, then read **The Silent Berth, starting on page 13**. Keep the [station map](maps/silent-berth.svg) and **Player’s Book, page 70**, ship reference available.
+4. Agree on the tone, excluded subjects, and how anyone can pause a scene. Try the opening adventure; the expansion books are optional.
+5. Report one specific moment that worked or caused trouble. Include the book/page and what the group tried. You do not need to finish a session for your feedback to be useful.
+
+Page numbers refer to the released Alpha 0.3.1 books inside Public Alpha 0.1.0.
+
+## Before you download
+
+- **Is it free?** Yes. The full public kit is free; there is no paid-only content in this release.
+- **Is it finished?** No. It is an alpha seeking human playtests. No balance, enjoyment, or release-date guarantee is made.
+- **What do I get?** Four PDF books totaling 199 pages and six printable SVG maps, plus instructions and the playtest permission.
+- **Do I need another game?** No. These books contain an original rules system.
+- **Is software included?** No. The optional software companion mentioned in the books is not included in this public kit.
+- **Can I reuse it commercially?** No commercial-use or adaptation license is granted by the free download. See the included permission.
 
 ## Help shape the game
 
